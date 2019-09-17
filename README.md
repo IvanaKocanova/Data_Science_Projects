@@ -12,3 +12,5 @@ This research was undertaken in partnership with one of the top UK retailers. Th
 
 * [Detection of functional commuting zones with complex networks](https://github.com/IvanaKocanova/Community_detection_with_Complex_Networks) :
 To provide an alternative view of urban life in Leeds, this project utilizes Complex Networks of urban flows for detection of functional commuting zones.
+
+* How climate change perceptions vary around the world? (work in progress) : As nations face unavoidable challenge of adapting to a changing climate, the awareness about humans’ effect on environment has reached all-time high. Through Natural Language Processing and Sentiment Analysis on tweets, I wanted to investigate country specific concerns and perceptions regarding our environment.
