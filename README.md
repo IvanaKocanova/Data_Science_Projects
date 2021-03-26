@@ -16,5 +16,5 @@ To better understand ever-evolving urban life, this research constructs function
 * [Predicting Boston house prices](https://github.com/IvanaKocanova/Data_Science_Projects/blob/master/script/python/House_price_prediction_Linear_regression.ipynb) : I have decided to become a real estate agent for a day! In order to compete with other agents, I have used the power of Multiple Linear Regression, Decision Trees and Random Forest. 
 
 * [A Visual Analytics Workflow for Investigating Customers’ Transactions in
-Convenience Stores](https://github.com/IvanaKocanova/Data_Science_Projects/blob/master/Vizual_workflow_analysis_.pdf) :
+Convenience Stores](https://github.com/IvanaKocanova/Data_Science_Projects/blob/master/pdf/Vizual_workflow_analysis_.pdf) :
 This research was undertaken in partnership with one of the top UK retailers. The objective was to investigating how novel pattern mining and visualization techniques can speed-up the analysis of shopping behaviour.
