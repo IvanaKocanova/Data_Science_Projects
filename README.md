@@ -20,4 +20,4 @@ Second data science article I wrote while working in Frontier Economics. In this
 
 * [A Visual Analytics Workflow for Investigating Customers’ Transactions in
 Convenience Stores](https://github.com/IvanaKocanova/Data_Science_Projects/blob/master/pdf/Vizual_workflow_analysis_.pdf) :
-This research was undertaken in partnership with one of the top UK retailers. The objective was to investigating how novel pattern mining and visualization techniques can speed-up the analysis of shopping behaviour.
+This research was undertaken during my internship at Leeds Institute for Data Analytics. The objective was to investigating how novel pattern mining and visualization techniques can speed-up the analysis of shopping behaviour.
